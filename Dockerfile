@@ -6,7 +6,7 @@ COPY . .
 
 RUN dotnet restore InventoryManagement.slnx
 
-RUN dotnet publish InventoryManagement.APIs/InventoryManagement.APIs.csproj \
+RUN dotnet publish InventoryManagement/InventoryManagement.API.csproj \
     -c Release \
     -o /app/publish \
     --no-restore
@@ -19,4 +19,4 @@ COPY --from=build /app/publish .
 
 EXPOSE 10000
 
-ENTRYPOINT ["sh", "-c", "dotnet InventoryManagement.APIs.dll --urls http://0.0.0.0:${PORT:-10000}"]
+ENTRYPOINT ["sh", "-c", "dotnet InventoryManagement.API.dll --urls http://0.0.0.0:${PORT:-10000}"]
