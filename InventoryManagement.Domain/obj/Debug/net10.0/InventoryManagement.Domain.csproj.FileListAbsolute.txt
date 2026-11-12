@@ -1,0 +1,13 @@
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\bin\Debug\net10.0\InventoryManagement.Domain.deps.json
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\bin\Debug\net10.0\InventoryManagement.Domain.dll
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\bin\Debug\net10.0\InventoryManagement.Domain.pdb
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\obj\Debug\net10.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\obj\Debug\net10.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\obj\Debug\net10.0\InventoryManagement.Domain.AssemblyInfo.cs
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\obj\Debug\net10.0\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\obj\Debug\net10.0\InventoryManagement.Domain.sourcelink.json
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\obj\Debug\net10.0\InventoryManagement.Domain.dll
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\obj\Debug\net10.0\refint\InventoryManagement.Domain.dll
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\obj\Debug\net10.0\InventoryManagement.Domain.pdb
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\obj\Debug\net10.0\ref\InventoryManagement.Domain.dll
+C:\Users\rajum\Music\Applictions\FinalProject\InventoryManagement\InventoryManagement.Domain\obj\Debug\net10.0\Inventor.631CB0DA.Up2Date

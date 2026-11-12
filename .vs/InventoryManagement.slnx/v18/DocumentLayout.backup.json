@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE2AC0-309F-182F-BC99-A3D12D7C4E4C}|InventoryManagement.Tests\\InventoryManagement.Tests.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.tests\\stockservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE2AC0-309F-182F-BC99-A3D12D7C4E4C}|InventoryManagement.Tests\\InventoryManagement.Tests.csproj|solutionrelative:inventorymanagement.tests\\stockservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.application\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.application\\interfaces\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\interfaces\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8781A84-4913-5089-97EE-550293854E33}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8781A84-4913-5089-97EE-550293854E33}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|solutionrelative:inventorymanagement.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|solutionrelative:inventorymanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|solutionrelative:inventorymanagement.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8781A84-4913-5089-97EE-550293854E33}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8781A84-4913-5089-97EE-550293854E33}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.infrastructure\\security\\tokenrevocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|solutionrelative:inventorymanagement.infrastructure\\security\\tokenrevocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.application\\interfaces\\itokenrevocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\interfaces\\itokenrevocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.infrastructure\\migrations\\20261111104703_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|solutionrelative:inventorymanagement.infrastructure\\migrations\\20261111104703_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.infrastructure\\security\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|solutionrelative:inventorymanagement.infrastructure\\security\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement\\inventorymanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement\\inventorymanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.infrastructure\\migrations\\20261111093253_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|solutionrelative:inventorymanagement.infrastructure\\migrations\\20261111093253_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50978452-3868-7AF2-320A-5C9ED86A0655}|InventoryManagement\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43D285-7BFB-F8A2-A98C-5E4FD9211733}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8781A84-4913-5089-97EE-550293854E33}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8781A84-4913-5089-97EE-550293854E33}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|c:\\users\\rajum\\music\\applictions\\finalproject\\inventorymanagement\\inventorymanagement.infrastructure\\migrations\\20261111142104_addproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6B658-09EE-2CCA-A71B-6EF16FD69E4A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|solutionrelative:inventorymanagement.infrastructure\\migrations\\20261111142104_addproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Tests\\StockServiceTests.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Tests\\StockServiceTests.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Tests\\StockServiceTests.cs",
+              "RelativeToolTip": "InventoryManagement.Tests\\StockServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T15:07:25.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\Program.cs",
+              "RelativeToolTip": "InventoryManagement\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:15:23.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T08:52:07.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T08:52:39.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:13:27.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InventoryManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:04:37.214Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\Controllers\\StockController.cs",
+              "RelativeToolTip": "InventoryManagement\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:30:47.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "InventoryManagement\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T15:03:10.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStockService.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Interfaces\\IStockService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\Interfaces\\IStockService.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Interfaces\\IStockService.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\Interfaces\\IStockService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:28:59.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Services\\StockService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\Services\\StockService.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Services\\StockService.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\Services\\StockService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:29:35.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "InventoryManagement.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:08:58.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "InventoryManagement.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:12:10.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20261111142104_AddProductTable.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Migrations\\20261111142104_AddProductTable.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Infrastructure\\Migrations\\20261111142104_AddProductTable.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Migrations\\20261111142104_AddProductTable.cs",
+              "RelativeToolTip": "InventoryManagement.Infrastructure\\Migrations\\20261111142104_AddProductTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:21:05.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "InventoryManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:07:22.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:14:14.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:15:02.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InventoryManagement\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:16:24.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "InventoryManagement.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:11:26.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITokenRevocationService.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Interfaces\\ITokenRevocationService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\Interfaces\\ITokenRevocationService.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Interfaces\\ITokenRevocationService.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\Interfaces\\ITokenRevocationService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T10:02:02.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenRevocationService.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Security\\TokenRevocationService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Infrastructure\\Security\\TokenRevocationService.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Security\\TokenRevocationService.cs",
+              "RelativeToolTip": "InventoryManagement.Infrastructure\\Security\\TokenRevocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T10:02:43.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InventoryManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:36:47.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Security\\JwtService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Infrastructure\\Security\\JwtService.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Security\\JwtService.cs",
+              "RelativeToolTip": "InventoryManagement.Infrastructure\\Security\\JwtService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwC8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:11:39.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20261111104703_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Migrations\\20261111104703_Initial.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Infrastructure\\Migrations\\20261111104703_Initial.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Migrations\\20261111104703_Initial.cs",
+              "RelativeToolTip": "InventoryManagement.Infrastructure\\Migrations\\20261111104703_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T10:47:04.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\appsettings.json",
+              "RelativeToolTip": "InventoryManagement\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T09:13:40.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T08:59:29.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InventoryManagement.API.csproj",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\InventoryManagement.API.csproj",
+              "RelativeDocumentMoniker": "InventoryManagement\\InventoryManagement.API.csproj",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\InventoryManagement.API.csproj",
+              "RelativeToolTip": "InventoryManagement\\InventoryManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T09:32:04.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20261111093253_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Migrations\\20261111093253_InitialCreate.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Infrastructure\\Migrations\\20261111093253_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Infrastructure\\Migrations\\20261111093253_InitialCreate.cs",
+              "RelativeToolTip": "InventoryManagement.Infrastructure\\Migrations\\20261111093253_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:32:54.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InventoryManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InventoryManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T09:37:37.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T08:56:33.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T08:55:55.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T08:53:49.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\rajum\\Music\\Applictions\\FinalProject\\InventoryManagement\\InventoryManagement.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "InventoryManagement.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T08:50:51.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
